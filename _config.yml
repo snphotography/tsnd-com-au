@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: tsnd-com-au
+description: Tony and Sharon Newman Developments
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://snphotography.github.io/tsnd-com-au
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
